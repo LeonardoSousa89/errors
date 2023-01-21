@@ -3,7 +3,7 @@
   "Stack-overflow":[
     
     {"knex-timeout": "https://stackoverflow.com/questions/40435315/knex-timeout-acquiring-a-connection-the-pool-is-probably-full-are-you-missing" },
-    {"Jenkins having trouble finding JenkinsFile": "https://stackoverflow.com/questions/45178352/jenkins-having-trouble-finding-jenkinsfile-from-scm" },
+    {"Jenkins_having_trouble_finding_JenkinsFile": "https://stackoverflow.com/questions/45178352/jenkins-having-trouble-finding-jenkinsfile-from-scm" },
 	  {"jenkins-ci-pipeline-scripts-not-permitted": "https://stackoverflow.com/questions/38276341/jenkins-ci-pipeline-scripts-not-permitted-to-use-method-groovy-lang-groovyobject"},
 	  {"Cannot-allocate-memory-errno-12-solution1":"https://stackoverflow.com/questions/34966739/kafka-failed-to-map-1073741824-bytes-for-committing-reserved-memory"},
 	  {"Cannot-allocate-memory-errno-12-solution1.1":"https://stackoverflow.com/questions/62135235/healthcheck-not-working-at-all-when-using-docker-compose-my-service-do-not-wait"},
@@ -17,6 +17,9 @@
 	  {"org.eclipse.jgit.api.errors.TransportException":"[educandoweb]https://docs.github.com/pt/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token"},
 	  {"":""}
 
+  ],
+  "Alura":[
+	 {"No-identifier-specified-for-entity":"https://cursos.alura.com.br/forum/topico-no-identifier-specified-for-entity-48404"}
   ]
 
 }]
