@@ -12,7 +12,10 @@
 	{"unknown-command-link":"https://stackoverflow.com/questions/72872203/unrecognized-command-link-when-linking-fonts-in-react-native"},
 	{"FirebaseError-Missing-or-insufficient-permissions":"https://stackoverflow.com/questions/66586817/uncaught-in-promise-firebaseerror-missing-or-insufficient-permissions"},
 	{"default-imported-using-the-esModuleInterop_flag":"https://stackoverflow.com/questions/63320525/error-ts1259-module-node-modules-types-express-index-can-only-be-default"},
-	{"TypeError-Router.use()-requires-middleware-function-but-got-a-Object":"https://stackoverflow.com/questions/27465850/typeerror-router-use-requires-middleware-function-but-got-a-object"}
+	{"TypeError-Router.use()-requires-middleware-function-but-got-a-Object":"https://stackoverflow.com/questions/27465850/typeerror-router-use-requires-middleware-function-but-got-a-object"},
+	{"error-duplicate-method-lombok":"https://stackoverflow.com/questions/60163928/error-duplicate-method-enquiryform-in-type-enquiryform-for-allargsconstruct"},
+	{"JsonMappingException-Can-not-deserialize-instance-of":"https://stackoverflow.com/questions/37471005/jsonmappingexception-can-not-deserialize-instance-of-java-lang-integer-out-of-s"},
+	{}
 
   ], 
   
