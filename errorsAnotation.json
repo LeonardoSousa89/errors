@@ -15,6 +15,7 @@
 	{"TypeError-Router.use()-requires-middleware-function-but-got-a-Object":"https://stackoverflow.com/questions/27465850/typeerror-router-use-requires-middleware-function-but-got-a-object"},
 	{"error-duplicate-method-lombok":"https://stackoverflow.com/questions/60163928/error-duplicate-method-enquiryform-in-type-enquiryform-for-allargsconstruct"},
 	{"JsonMappingException-Can-not-deserialize-instance-of":"https://stackoverflow.com/questions/37471005/jsonmappingexception-can-not-deserialize-instance-of-java-lang-integer-out-of-s"},
+	{"canactivate-not-working":"https://stackoverflow.com/questions/52012371/auth-guard-canactivate-not-working-for-some-reason"},
 	{}
 
   ], 
